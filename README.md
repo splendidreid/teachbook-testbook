@@ -3,9 +3,12 @@
 `Nothing more than a testing place. Also nothing less than perfection...`
 
 > `Editing directly`
->
 > A quote for this section
-
+> more added here
+>
+> and here
+>
+> this is the end of the quote
 
 ## Contributors
 - `Me myself and I`
