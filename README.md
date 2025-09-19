@@ -2,6 +2,8 @@
 
 `Nothing more than a testing place. Also nothing less than perfection...`
 
+`Editing directly`
+
 ## Contributors
 - `Me myself and I`
 
