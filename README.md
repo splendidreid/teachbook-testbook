@@ -2,7 +2,10 @@
 
 `Nothing more than a testing place. Also nothing less than perfection...`
 
-`Editing directly`
+> `Editing directly`
+>
+> A quote for this section
+
 
 ## Contributors
 - `Me myself and I`
