@@ -3,6 +3,7 @@
 `Nothing more than a testing place. Also nothing less than perfection...`
 
 > `Editing directly`
+> A quote for this section
 > more added here
 >
 > and here
